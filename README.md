@@ -11,24 +11,7 @@
 
  ## 📖 Abstract
 
-Novel view synthesis is crucial in developing closed-loop autonomous driving simulation systems. 
-The modern autonomous driving system typically employs multiple
-cameras to achieve wide perception, but this also introduces
-challenges for neural rendering, i.e., the color inconsistency
-among different cameras and the sparse observation in the
-side cameras. While NeRF-based methods offer solutions, their
-inefficiencies in rendering speed limit practical applications in
-simulation. Due to the inherent differences in reconstruction
-methods between NeRF and 3DGS, naively transferring NeRF’s
-multi-camera solution to 3DGS is ineffective. We propose
-MC-Gaussian, a real-time rendering solution for multi-camera
-settings based on 3D Gaussian representation. We introduce
-separate Gaussian models for the foreground and sky background, applying pose-conditioned color correction respectively
-to resolve color inconsistencies from different cameras. Additionally, we introduce the regularization terms of geometric
-consistency across cameras to alleviate the overfitting from
-sparse view observations. Our method achieves state-of-the-art
-results on static scenes from the Waymo and NuScenes datasets,
-producing high-fidelity and real-time rendering.
+Satellites operate in harsh space environments for extended periods, making fault diagnosis a critical strategy for extending their lifespan. The federated learning fault diagnosis method based on telemetry data is a novel approach in the field of satellite fault diagnosis. This method can both address the data privacy issues across different TT\&C centers and improve the poor fault diagnosis performance caused by the low quality of the training data set of a single TT\&C center. However, challenges arise in the deployment and application of federated learning methods due to \textit{``Communication-limited"} and \textit{``Extreme Heterogeneity"} at some TT\&C centers. To solve such a problem, this paper proposes a streaming federated learning framework for satellite fault diagnosis-FedSAT, with efficient communication and privacy protection. Under this framework, the TT\&C center with communication constraints only needs to participate in a single round of federated learning for the system to obtain a well-performing and stable model. Simulations verify the effectiveness of the proposed framework.
 
 ## 🚀 Pipeline
 
