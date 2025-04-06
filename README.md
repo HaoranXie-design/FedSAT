@@ -1,4 +1,3 @@
-# FedSPS
 <div align="center">
 
   <h1 align="center">MC-Gaussian: 3D Gaussian Splatting with Multi-camera in Autonomous Driving</h1>
