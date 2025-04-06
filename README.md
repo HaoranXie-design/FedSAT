@@ -16,7 +16,7 @@ Satellites operate in harsh space environments for extended periods, making faul
 ## 🚀 Pipeline
 
 <div align="center">
-<img width="800" alt="image" src="figs/pipeline.jpg">
+<img width="800" alt="image" src="figs/Streaming federated learning framework.png">
 </div>
 
 ##  📺 Video
