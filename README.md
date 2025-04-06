@@ -19,7 +19,7 @@ Satellites operate in harsh space environments for extended periods, making faul
 <img width="800" alt="image" src="figs/Streaming federated learning framework.png">
 </div>
 
-##  📺 Video
+##  📺 Main result
 
 The high-definition video of our project presentation is [here](https://youtu.be/JB79gaG0rt4).
 
