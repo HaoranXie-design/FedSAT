@@ -6,7 +6,7 @@
 
 ## 🖼️ Demo
 <div align="center">
-<img width="800" alt="image" src="figs/system model.pdf">
+<img width="800" alt="image" src="figs/system model.png">
 </div>
 
  ## 📖 Abstract
