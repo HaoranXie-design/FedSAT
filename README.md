@@ -42,6 +42,15 @@ Experimental results indicate that the algorithm's performance does not signific
 
 ## 🎉 Ablation Study
 
+<div align="center">
+<img width="800" alt="image" src="figs/Ablation Study_1.png">
+</div>
+
+<div align="center">
+<img width="800" alt="image" src="figs/Ablation Study_2.png">
+</div>
+
+
 ## 💡 Experiments of Different Numbers of TT&C Centers with Different Degrees of Data Heterogeneity
 
 <div align="center">
