@@ -77,6 +77,6 @@ In fact, since the current mainstream fault diagnosis algorithm is only trained 
 <img width="800" alt="image" src="figs/robustness_2.png">
 </div>
 
-## 🚀 Code
+## 🔗 Code
 Coming soon🚀！
 
