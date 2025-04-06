@@ -78,5 +78,5 @@ In fact, since the current mainstream fault diagnosis algorithm is only trained 
 </div>
 
 ## 🚀 Code
-The code will be released after paper has been accepted.
+Coming soon🚀！
 
