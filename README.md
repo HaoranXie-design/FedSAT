@@ -19,19 +19,17 @@ Satellites operate in harsh space environments for extended periods, making faul
 <img width="800" alt="image" src="figs/Streaming federated learning framework.png">
 </div>
 
-##  📺 Main result
+##  🚩 Main Result
 
 The high-definition video of our project presentation is [here](https://youtu.be/JB79gaG0rt4).
 
-## 🚩 Code
+## ✨ Scalability
 
-## ✨ Code
+## 🔭 Algorithm Comparison
 
-## 🔭 Code
+## 🎉 Ablation Study
 
-## 🎉 Code
-
-## 💡 Code
+## 💡 Experiments of Different Numbers of TT&C Centers with Different Degrees of Data Heterogeneity
 
 ## 🚀 Code
 The code will be released after paper has been accepted.
