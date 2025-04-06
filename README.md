@@ -5,11 +5,8 @@
 </div>
 
 ## 🖼️ Demo
-<div align="center">
-<img width="800" alt="image" src="figs/system model.png">
-</div>
 
-![1](figs/1.gif)
+![Demo](figs/Demo.gif)
 
  ## 📝 Abstract
 
