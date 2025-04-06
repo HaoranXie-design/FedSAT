@@ -54,11 +54,11 @@ Experimental results indicate that the algorithm's performance does not signific
 ## 💡 Experiments of Different Numbers of TT&C Centers with Different Degrees of Data Heterogeneity
 
 <div align="center">
-<img width="400" alt="image" src="figs/robustness_1.png">
+<img width="800" alt="image" src="figs/robustness_1.png">
 </div>
 
 <div align="center">
-<img width="400" alt="image" src="figs/robustness_2.png">
+<img width="800" alt="image" src="figs/robustness_2.png">
 </div>
 
 ## 🚀 Code
