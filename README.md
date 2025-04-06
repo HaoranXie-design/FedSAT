@@ -9,7 +9,7 @@
 <img width="800" alt="image" src="figs/system model.png">
 </div>
 
-![l](l.gif)
+![1](figs/1.gif)
 
  ## 📝 Abstract
 
