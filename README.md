@@ -40,6 +40,23 @@ Experimental results indicate that the algorithm's performance does not signific
 
 ## 🔭 Algorithm Comparison
 
+Comparison with mainstream satellite fault diagnosis methods and emerging fault diagnosis methods.
+
+<div align="center">
+<img width="800" alt="image" src="figs/compare_1.png">
+</div>
+
+Since the current mainstream fault diagnosis algorithm is only trained on its own fault data set, it is difficult for the model to effectively learn faults with scarce fault samples, and the model recognition ability is limited. Although it may meet the performance requirements, it cannot be applied in actual engineering because the model cannot recognize some faults at all, as shown on the left side of the figure below. The proposed method effectively integrates the fault knowledge of all TT&C centers, breaking through the limitations of a single TT&C center in terms of fault types and sample quantity, as shown on the right side of the figure below.
+
+<div align="center">
+<img width="800" alt="image" src="figs/confusion_matrix.png">
+</div>
+
+<div align="center">
+<img width="800" alt="image" src="figs/compare_2.png">
+</div>
+
+
 ## 🎉 Ablation Study
 
 <div align="center">
