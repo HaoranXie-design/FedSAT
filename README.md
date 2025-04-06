@@ -24,12 +24,19 @@ Satellites operate in harsh space environments for extended periods, making faul
 Dataset 1 represents the dataset containing all faults of the TT\&C centers without communication constraints, Dataset 2 represents the dataset of faults from the TT\&C center with communication constraints, and Dataset 3 represents the full dataset containing all faults of the TT\&C centers. 
 
 <div align="center">
-<img width="800" alt="image" src="figs/Streaming federated learning framework.png">
+<img width="800" alt="image" src="figs/main result.png">
 </div>
 
 During the model training in the TT\&C center with communication constraints, the proposed algorithm learns the internal knowledge very effectively and does not excessively forget the external fault knowledge, thanks to the benefits of dual-domain distillation learning. When the model training in TT\&C centers without communication constraints, after forgetting compensation, the model can keep the internal knowledge well while constantly learning the external knowledge. **Taking centralized training as the upper bound of the algorithm, the proposed algorithm achieves a performance that is close to the optimal performance**. Note that the training time is not the federated learning rounds. In fact, the TT&C center with communication constraints only performed **single round** of federated learning.
 
 ## ✨ Scalability
+Most research on federated learning is conducted under ideal conditions. However, in real-world applications, satellites continuously generate new fault data. To ensure the scalability of the proposed method, we further validates the performance of the framework under streaming conditions.
+
+<div align="center">
+<img width="800" alt="image" src="figs/Scalability.png">
+</div>
+
+Experimental results indicate that the algorithm's performance does not significantly degrade with the increase in the number of new fault types (assuming that the model parameter size does not constitute a performance bottleneck). This result provides theoretical and technical support for subsequent engineering deployments.
 
 ## 🔭 Algorithm Comparison
 
