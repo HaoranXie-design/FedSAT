@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1 align="center">MC-Gaussian: 3D Gaussian Splatting with Multi-camera in Autonomous Driving</h1>
+  <h1 align="center">Fault Diagnosis in Satellite System: A Federated Learning Approach with Communication Constraints</h1>
 
 </div>
 
