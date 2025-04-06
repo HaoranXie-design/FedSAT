@@ -21,6 +21,14 @@ Satellites operate in harsh space environments for extended periods, making faul
 
 ##  🚩 Main Result
 
+Dataset 1 represents the dataset containing all faults of the TT\&C centers without communication constraints, Dataset 2 represents the dataset of faults from the TT\&C center with communication constraints, and Dataset 3 represents the full dataset containing all faults of the TT\&C centers. 
+
+<div align="center">
+<img width="800" alt="image" src="figs/Streaming federated learning framework.png">
+</div>
+
+During the model training in the TT\&C center with communication constraints, the proposed algorithm learns the internal knowledge very effectively and does not excessively forget the external fault knowledge, thanks to the benefits of dual-domain distillation learning. When the model training in TT\&C centers without communication constraints, after forgetting compensation, the model can keep the internal knowledge well while constantly learning the external knowledge. Taking centralized training as the upper bound of the algorithm, the proposed algorithm achieves a performance that is close to the optimal performance. It is important to note that the training time is not the federated learning rounds. 
+
 The high-definition video of our project presentation is [here](https://youtu.be/JB79gaG0rt4).
 
 ## ✨ Scalability
