@@ -53,7 +53,7 @@ Comparison with mainstream satellite fault diagnosis methods and emerging fault 
 In fact, since the current mainstream fault diagnosis algorithm is only trained on its own fault data set, it is difficult for the model to effectively learn faults with scarce fault samples, and the model recognition ability is limited. Although it may meet the performance requirements, it cannot be applied in actual engineering because the model cannot recognize some faults at all, as shown on the left side of the figure below. The proposed method effectively integrates the fault knowledge of all TT&C centers, breaking through the limitations of a single TT&C center in terms of fault types and sample quantity, as shown on the right side of the figure below.
 
 <div align="center">
-<img width="1400" alt="image" src="figs/confusion_matrix.png">
+<img width="1500" alt="image" src="figs/confusion_matrix.png">
 </div>
 
 ## 🎉 Ablation Study
